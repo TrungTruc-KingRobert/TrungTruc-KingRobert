@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1> Hi, I'm Truc! 👋</h1>
+<p>- 😄 You can call me Robert or Pegasus</p>
+<p>- 🔭 Currently I am working at a hospital and am a freelance programmer </p>
+<img align='right' src="https://i1.sndcdn.com/avatars-KyUTq2FEXQOwT3Kz-n98A4Q-t240x240.jpg" width="230">
 
-<!--
-**TrungTruc-KingRobert/TrungTruc-KingRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
 
-Here are some ideas to get you started:
+<p> > Graduated with a major in information technology from <a href="https://hcmus.edu.vn/">the University of Natural Sciences</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p> > Frontend Developer </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=TrungTruc-KingRobert&show_icons=true&theme=radical" alt=""/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrungTruc-KingRobert&layout=donut-vertical&theme=radical" alt="" />
+
+## Technologies
+
+<p align="center">
+<a href="https://github.com/TrungTruc-KingRobert"><img src="https://img.shields.io/badge/JavaScript-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="Javascript"></a>
+<a href="https://github.com/TrungTruc-KingRobert"><img src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="Typescript"></a>
+<a href="https://github.com/TrungTruc-KingRobert"><img src="https://img.shields.io/badge/HTML-orange.svg?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML"></a>
+<a href="https://github.com/TrungTruc-KingRobert"><img src="https://img.shields.io/badge/CSS3-3aabe8.svg?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3"></a>
+<a href="https://github.com/TrungTruc-KingRobert"><img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=ffffff" alt="ReactJS"></a>
+<a href="https://github.com/TrungTruc-KingRobert"><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"></a>
+</p>
+
