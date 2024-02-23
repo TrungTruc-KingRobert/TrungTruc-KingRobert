@@ -1,7 +1,6 @@
 <h1> Hi, I'm Truc! 👋</h1>
 <p>- 😄 You can call me <b>Robert</b> or <b>Pegasus</b></p>
 <p>- 🔭 Currently I am working at a hospital and am a freelance programmer </p>
-<img align='right' src="https://i1.sndcdn.com/avatars-KyUTq2FEXQOwT3Kz-n98A4Q-t240x240.jpg" width="230">
 
 ## Profile
 
