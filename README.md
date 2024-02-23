@@ -9,9 +9,9 @@
 
 ## Github Stats
 
-<img src="[https://github-readme-stats.vercel.app/api?username=TrungTruc-KingRobert&show_icons=true&theme=cobalt](https://github-readme-stats.vercel.app/api?username=TrungTruc-KingRobert&show_icons=true)" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=TrungTruc-KingRobert&show_icons=true" alt=""/>
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs?username=TrungTruc-KingRobert&layout=donut-vertical&theme=radical](https://github-readme-stats.vercel.app/api/top-langs?username=TrungTruc-KingRobert&layout=compact&langs_count=10)" alt="" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrungTruc-KingRobert&layout=compact&langs_count=10" alt="" />
 
 ## Technologies
 
