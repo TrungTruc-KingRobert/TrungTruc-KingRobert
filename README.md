@@ -5,7 +5,7 @@
 
 ## Profile
 
-<p> > Graduated with a major in information technology from <a href="https://hcmus.edu.vn/">the University of Natural Sciences</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p> > Graduated with a major in information technology from <a href="https://hcmus.edu.vn/">the University of Natural Sciences</a></p>
 <p> > Frontend Developer </p>
 
 ## Github Stats
